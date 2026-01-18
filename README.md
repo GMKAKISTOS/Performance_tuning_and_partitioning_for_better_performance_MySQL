@@ -22,7 +22,7 @@ This repository provides scripts and resources for optimizing MySQL database per
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/panoschron97/Performance_tuning_and_partitioning_for_better_performance_MySQL.git
+    git clone https://github.com/GMKAKISTOS/Performance_tuning_and_partitioning_for_better_performance_MySQL.git
     cd Performance_tuning_and_partitioning_for_better_performance_MySQL
     ```
 
